@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="contact_name">Contact name</string>
+    <string name="_08134567890">08134567890</string>
+    <string name="category">Category</string>
+    <string name="save">save</string>
+    <string name="phone_number">phone number</string>
+    <string name="Name">Name</string>
+    <string name="add_new_contact">add_new_contact</string>
+</resources>
